@@ -1,0 +1,67 @@
+{
+	"planet":
+	[
+		{
+			"name":"Mercury",
+			"points":2,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Venus",
+			"points":2,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Earth",
+			"points":3,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Mars",
+			"points":3,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Jupiter",
+			"points":4,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Saturn",
+			"points":5,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Uranus",
+			"points":5,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Neptune",
+			"points":5,
+			"setelite": "no",
+			"connection": false
+		},
+
+		{
+			"name":"Pluto",
+			"points":1,
+			"setelite": "no",
+			"connection": false
+		}
+	]
+}
